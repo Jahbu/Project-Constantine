@@ -1,0 +1,69 @@
+# Kulturen
+
+vorteil einer eigenen kultur:
+- man kann sich das zusammenbauen was man möchte
+- ist völlig frei im Gebäudestil
+- kann Waffen und Rüstungen so machen wie man das möchte
+- ist an keine Vorgaben gebunden
+- fantasy ist möglich
+
+vorteile einer bestehenden kultur
+- man hat klare vorgaben an die man sich orientieren kann
+- findet eventuell sogar skizzen die man weiterverwenden kann
+- es gibt viele fans von gewissen reellen Zeitaltern (Bsp. Mittelalter)
+- man kann schneller mit der Entwerfung von Designs anfangen, da man weiß wo man hin will...
+Diese Unterhaltung wird auf der Registerkarte "Unterhaltungen" in Lync und im Outlook-Ordner "Aufgezeichnete Unterhaltungen" gespeichert.
+Böhmer, Carsten 12:58
+lol
+das mit dem namen auf github ist ja lustig xD
+aber das gute ist, dass dann auch kaum einer suchen wird  
+Attana, Rocco 12:59
+ein u mehr, und der name wäre vergeben gewesen
+das stimmt
+Böhmer, Carsten 12:59
+stimmt  
+was sagst du zu den punkten oben?
+Attana, Rocco 13:00
+ist ein pro und contra für beides...
+Böhmer, Carsten 13:00
+ja deswegen hab ich mir kontra gespart xD
+Attana, Rocco 13:00
+ich würde zu beginn bestehende Kultur nehmen, aber ohne historische Genauigkeit an den Tag zu legen
+Dann wirds einfacher, Material zu finden, statt Assets aus dem Nichts zu kreieren
+Böhmer, Carsten 13:01
+joa seh ich genauso
+kennst du "die siedler"?
+Attana, Rocco 13:01
+Ja
+Böhmer, Carsten 13:01
+in dem "zeitalter" wäre vielleicht ganz gut
+da kann man sich voll austoben
+Attana, Rocco 13:07
+Jap
+ich versuche grade mit meinem User einen neuen Branch auf das Repository zu pushen  
+komme noch nicht ganz drauf  
+Böhmer, Carsten 13:08
+schon merkwürdig das ich dir dafür keinerlei berechtigungen erteilen muss und du einfach drauf zugreifen kannst
+könnten dadurch auch einfach irgendwelche anderen leute darauf zugreifen und irgendwas rausnehmen oder reinpacken?
+Attana, Rocco 13:10
+reinpacken weiß ich nicht
+reingucken auf jeden Fall, da öffentlich
+Böhmer, Carsten 13:15
+dann mach ich doch einfach da weiter, wo ich gestern aufgehört habe
+sprich, bäume
+steine
+felder (getrreide)
+als einfache Ressourcen
+und dann überleg ich mir mal was noch dazukommen könnte
+Münzen als Währung
+passt in die Zeit
+Juwelen als Echtgeld? ;D
+achso, mit was für einer Datenbank wollen wir dann eigentlich arbeiten? Bzw, gibt es da überhaupt eine Auswahl für Android?
+Attana, Rocco 13:16
+Ka
+ich nehme an, dass alles auch funktioniert, wie in Java
+aber ich würde halt ne Embedded DB empfehlen
+SQLite, Derby im EMbedded mode oder sowas
+Böhmer, Carsten 13:17
+mh, okay können wir ja mal so festhalten
+aber wird das nicht zu groß vom Volumen? Also wenn wir das später wirklich mal soweit bekommen sollten, dass es MMO fähig ist
